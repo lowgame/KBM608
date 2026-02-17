@@ -48,6 +48,9 @@ This is a hands-on course where you will learn by doing. Through a series of Jup
 > be used in an unethical fashion and especially "chat" LLMs such as chatGPT can be dangerously addictive with long lasting
 > mental health and degradation consequences.
 
+## Introductory slides
+* [Part 1](https://drive.google.com/file/d/1k4wHSODEmGVbUPiPONDkT6CiZ7rxMz-P/view)
+* [Part 2](https://drive.google.com/file/d/1HFWq6HLkynoeb_Wn2_DpU1DC8ADNZ_DB/view) 
 
 ## Theory
 * Theory 1 <a target="_blank" href="https://colab.research.google.com/github/osbama/KBM608/blob/main/theory/theory1.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
